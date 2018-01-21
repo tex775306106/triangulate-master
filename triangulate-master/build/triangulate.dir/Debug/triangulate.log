@@ -1,0 +1,19 @@
+﻿  Building Custom Rule D:/triangulate-master/CMakeLists.txt
+  CMake does not need to re-run because D:/triangulate-master/build/CMakeFiles/generate.stamp is up-to-date.
+  Basic.cpp
+  main.cpp
+D:\triangulate-master\main.cpp(37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\triangulate-master\main.cpp(84): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\triangulate-master\main.cpp(85): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\triangulate-master\main.cpp(86): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\triangulate-master\main.cpp(125): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\triangulate-master\main.cpp(148): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  polygon.cpp
+D:\triangulate-master\polygon.cpp(66): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\triangulate-master\polygon.cpp(366): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\triangulate-master\polygon.cpp(387): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  triangulation.cpp
+D:\triangulate-master\triangulation.cpp(71): warning C4101: “preV”: 未引用的局部变量
+  正在生成代码...
+  triangulate.vcxproj -> D:\triangulate-master\build\Debug\triangulate.exe
+  triangulate.vcxproj -> D:/triangulate-master/build/Debug/triangulate.pdb (Full PDB)

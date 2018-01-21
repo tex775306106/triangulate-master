@@ -1,0 +1,3 @@
+D:/triangulate-master/build/CMakeFiles/triangulate.dir
+D:/triangulate-master/build/CMakeFiles/ALL_BUILD.dir
+D:/triangulate-master/build/CMakeFiles/ZERO_CHECK.dir
